@@ -1,2 +1,5 @@
-## Scotch React Router
-A demo that backs a Scotch article on routing in React.
+
+1. on one terminal :npm run watch
+2. open another terminal: npm run serve
+
+

@@ -1,7 +1,7 @@
 {
-  "name": "scotch-react-router",
+  "name": "React-router",
   "version": "1.0.0",
-  "description": "React Router Aricle for Scotch",
+  "description": "react routing and front end authentication",
   "main": "index.js",
   "scripts": {
     "watch": "webpack -d --watch",
@@ -9,8 +9,8 @@
     "serve": "serve ./public",
     "start": "nodemon"
   },
-  "author": "Christian Nwamba",
-  "license": "MIT",
+  "author": "charles",
+  "license": "ISC",
   "devDependencies": {
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.13.2",
